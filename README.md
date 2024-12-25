@@ -1,1 +1,2 @@
-# numerical_methods_2
+# Numerical MЬethods 2
+University assignment on numerical methods
